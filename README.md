@@ -7,7 +7,7 @@
 4.[Coins](https://fedlucero.github.io/all_generative/coins)
 5.[Defasados](https://fedlucero.github.io/all_generative/defasados)
 6.[Dualism](https://fedlucero.github.io/all_generative/dualism)
-7.Equilibrio](https://fedlucero.github.io/all_generative/equilibrio)
+7.[Equilibrio](https://fedlucero.github.io/all_generative/equilibrio)
 8.[Grid](https://fedlucero.github.io/all_generative/grids)
 9.[Lamps](https://fedlucero.github.io/all_generative/lamps)
 10.[Lunar Map](https://fedlucero.github.io/all_generative/lunar_mao)
