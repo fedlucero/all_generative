@@ -1,9 +1,9 @@
 # all_generative
 
-[Arc](https://fedlucero.github.io/all_generative/arc)
-[Bullet](https://fedlucero.github.io/all_generative/bullet)
-[Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
-[Coins](https://fedlucero.github.io/all_generative/coins)
+#[Arc](https://fedlucero.github.io/all_generative/arc)
+#[Bullet](https://fedlucero.github.io/all_generative/bullet)
+#[Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
+#[Coins](https://fedlucero.github.io/all_generative/coins)
 [Defasados](https://fedlucero.github.io/all_generative/defasados)
 [Dualism](https://fedlucero.github.io/all_generative/dualism)
 [Equilibrio](https://fedlucero.github.io/all_generative/equilibrio)
