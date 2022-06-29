@@ -2,7 +2,9 @@
 
 
 1.[Arc](https://fedlucero.github.io/all_generative/arc)
+***
 2.[Bullet](https://fedlucero.github.io/all_generative/bullet)
+***
 3.[Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
 4.[Coins](https://fedlucero.github.io/all_generative/coins)
 5.[Defasados](https://fedlucero.github.io/all_generative/defasados)
