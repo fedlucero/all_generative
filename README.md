@@ -1,10 +1,9 @@
 # all_generative
 
-## Arc
-[Arc](https://fedlucero.github.io/all_generative/arc)
-## Bullert
-[Bullet](https://fedlucero.github.io/all_generative/bullet)
-[Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
+
+1.[Arc](https://fedlucero.github.io/all_generative/arc)
+2.[Bullet](https://fedlucero.github.io/all_generative/bullet)
+3.[Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
 [Coins](https://fedlucero.github.io/all_generative/coins)
 [Defasados](https://fedlucero.github.io/all_generative/defasados)
 [Dualism](https://fedlucero.github.io/all_generative/dualism)
