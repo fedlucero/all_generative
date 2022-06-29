@@ -1,7 +1,9 @@
 # all_generative
 
-[Arc](https://fedlucero.github.io/all_generative/arc) \pagebreak
-[Bullet](https://fedlucero.github.io/all_generative/bullet) \pagebreak
+## Arc
+[Arc](https://fedlucero.github.io/all_generative/arc)
+## Bullert
+[Bullet](https://fedlucero.github.io/all_generative/bullet)
 [Cirkuyt](https://fedlucero.github.io/all_generative/cirkuyt)
 [Coins](https://fedlucero.github.io/all_generative/coins)
 [Defasados](https://fedlucero.github.io/all_generative/defasados)
